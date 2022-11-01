@@ -10,6 +10,7 @@ namespace dataBase
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, world!");
         }
     }
 }
