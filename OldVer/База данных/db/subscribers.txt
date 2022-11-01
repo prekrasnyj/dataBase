@@ -1,0 +1,9 @@
+Draco, Digori, 34, Hufflepuff, 91, 6
+Lucius, Longbottm, 43, Ravenclaw, 24, 11
+Grum, Forester, 70, Gryffindor, 89, 5
+Draco, Reddle, 43, Hufflepuff, 95, 12
+Hagrid, Malfoi, 95, Slytherin, 95, 11
+Ron, Digori, 52, Gryffindor, 50, 7
+Ron, Reddle, 93, Gryffindor, 25, 7
+Sedric, Potter, 48, Hufflepuff, 20, 12
+Саша, Зенова, 22, Луна, 500, 5
